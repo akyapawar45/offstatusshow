@@ -1,0 +1,3 @@
+pip install Flask,
+pip inatall SQLAlchemy
+pip install pandas
